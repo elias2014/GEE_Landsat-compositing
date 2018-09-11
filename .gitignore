@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Julian's folder and other scratch fields
+/_Julian
+01_Build-Landsat-Composites_OtherFunctions.ipynb
+
+# GoogleDrive credential
+client_secrets.json
